@@ -1,17 +1,16 @@
 html {
+  font-family: "verdana";
   background-color: black;
   text-align: center;
 }
 
 .title {
-  font font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
 }
 
 .subtitle {
-  font font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
 }
@@ -22,7 +21,6 @@ html {
 }
 
 .dscrpt {
-  font-family: "Verdana";
   font-size: 21px;
   color: gray;
 }
